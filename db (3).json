@@ -1,0 +1,42 @@
+{
+    "subscriptions": [
+      {
+        "id": 1,
+        "name": "Basic",
+        "description": "Registration of 5 crops are available",
+        "price": 9.99
+      },
+      {
+        "id": 2,
+        "name": "Regular",
+        "description": "Registration of up to 10 crops in addition to statistics",
+        "price": 19.99
+      },
+      {
+        "id": 3,
+        "name": "Premium",
+        "description": "Unlimited registrartion of crops, plus special benefits",
+        "price": 29.99
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "userName":"JohnDoe",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "password": "password1",
+        "subscriptionId": 1
+      },
+      {
+        "id": 2,
+        "userName":"JaneDoe",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "email": "jane.doe@example.com",
+        "password": "password2",
+        "subscriptionId": 2
+      }
+    ]
+  }
