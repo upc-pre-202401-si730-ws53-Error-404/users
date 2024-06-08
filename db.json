@@ -27,7 +27,7 @@
         "email": "john.doe@example.com",
         "password": "password1",
         "subscription_id": 1,
-        "city_id": 1
+        "country_id": 1
       },
       {
         "id": 2,
@@ -36,7 +36,7 @@
         "email": "jane.doe@example.com",
         "password": "password2",
         "subscription_id": 2,
-        "city_id": 1
+        "country_id": 1
       }
     ],
     
