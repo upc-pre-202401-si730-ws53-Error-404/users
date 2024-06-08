@@ -38,5 +38,36 @@
         "subscription_id": 2,
         "city_id": 1
       }
+    ],
+    
+    "countries": [
+      {
+        "id": 1,
+        "name": "Peru",
+        "cities": [
+          {
+            "id": 1,
+            "name": "Lima"
+          },
+          {
+            "id": 2,
+            "name": "Cusco"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "United States",
+        "cities": [
+          {
+            "id": 1,
+            "name": "New York"
+          },
+          {
+            "id": 2,
+            "name": "Los Angeles"
+          }
+        ]
+      }
     ]
   }
